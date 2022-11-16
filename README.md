@@ -1,2 +1,3 @@
 # Sippin-Store
-qq
+
+-Идите нахуй
