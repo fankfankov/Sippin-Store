@@ -1,0 +1,329 @@
+	body {
+        position: relative;
+        width: 1920px;
+        height: 2059px;
+        background: #000000;
+        max-width: 1920px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+    .sp {
+        position: absolute;
+        width: 122px;
+        height: 29px;
+        left: 182px;
+        top: 29px;
+        font-family: 'Inter', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 29px;
+        letter-spacing: -0.04em;
+        color: #fff;
+        text-decoration: none;
+    }
+
+    .logo {
+        position: absolute;
+        width: 28px;
+        height: 28px;
+        left: 152px;
+        top: 29px;
+    }
+
+    .catalog {
+        position: absolute;
+        width: 58px;
+        height: 20px;
+        left: 1547px;
+        top: 33px;
+        font-family: 'Inter', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+        letter-spacing: -0.04em;
+        text-transform: capitalize;
+        color: #fff;
+        text-decoration: none;
+    }
+
+    .about {
+        position: absolute;
+        width: 44px;
+        height: 20px;
+        left: 1647px;
+        top: 33px;
+        font-family: 'Inter', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+        letter-spacing: -0.04em;
+        text-transform: capitalize;
+        color: #fff;
+        text-decoration: none;
+    }
+
+    .contacts {
+        position: absolute;
+        width: 71px;
+        height: 20px;
+        left: 1733px;
+        top: 33px;
+        font-family: 'Inter', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+        letter-spacing: -0.04em;
+        text-transform: capitalize;
+        color: #fff;
+        text-decoration: none;
+    }
+
+    .tblock1 {
+        position: absolute;
+        width: 290px;
+        height: 310px;
+        left: 152px;
+        top: 196px;
+        font-family: 'Inter', sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 128px;
+        line-height: 155px;
+        letter-spacing: 0.125em;
+        text-transform: capitalize;
+        -webkit-text-stroke-width: 2px;
+        -webkit-text-stroke-color: #828282;
+    }
+
+    .tblock2 {
+        position: absolute;
+        width: 914px;
+        height: 231px;
+        left: 140px;
+        top: 291px;
+        font-family: 'Zen Dots', cursive;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 140px;
+        line-height: 83.03%;
+        letter-spacing: -0.04em;
+        color: #fff;
+    }
+
+    .manicen {
+        position: absolute;
+        width: 794px;
+        height: 976px;
+        left: 1126px;
+        top: 140px;
+        filter: drop-shadow(0px 4px 15px rgba(0,0,0,0.25));
+    }
+
+    .strelka {
+        position: absolute;
+        width: 256.25px;
+        height: 67.44px;
+        left: 1094px;
+        top: 522.64px;
+    }
+
+    .tblock3 {
+        position: absolute;
+        width: 343px;
+        height: 88px;
+        left: 810px;
+        top: 596px;
+        font-family: 'Inter', cursive;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 36px;
+        line-height: 44px;
+        text-align: right;
+        letter-spacing: -0.04em;
+        color: #fff;
+        text-decoration: none;
+    }
+
+    .button {
+        position: absolute;
+        width: 290px;
+        height: 87px;
+        left: 140px;
+        top: 684px;
+    }
+
+    .vk {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        left: 171px;
+        top: 1005px;
+        display: none;
+    }
+
+    .inst {
+        position: absolute;
+        width: 24px;
+        height: 24px;
+        left: 140px;
+        top: 1003px;
+        display: none;
+    }
+
+    .catblock {
+        position: absolute;
+        width: 1920px;
+        height: 677px;
+        left: 0px;
+        top: 1096px;
+    }
+
+    .svet {
+        position: absolute;
+        width: 1243px;
+        height: 1212px;
+        left: 675px;
+        top: 522px;
+    }
+
+    .textcatalog {
+        position: absolute;
+        width: 234px;
+        height: 77px;
+        left: 820px;
+        top: 1085px;
+        font-family: 'Zen Dots';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 64px;
+        line-height: 77px;
+        letter-spacing: -0.04em;
+        color: #FFFFFF;
+    }
+
+    .tshirt1 {
+        position: absolute;
+        width: 386px;
+        height: 410px;
+        left: 182px;
+        top: 1237px;
+    }
+
+    .tshirt2 {
+        position: absolute;
+        width: 386px;
+        height: 410px;
+        left: 767px;
+        top: 1237px;
+    }
+
+    .tshirt3 {
+        position: absolute;
+        width: 386px;
+        height: 410px;
+        left: 1352px;
+        top: 1237px;
+    }
+
+    .torch {
+        position: absolute;
+        width: 349px;
+        height: 257px;
+        left: 198px;
+        top: 1269px;
+    }
+
+    .pid {
+        position: absolute;
+        width: 349px;
+        height: 257px;
+        left: 782px;
+        top: 1269px;
+    }
+
+    .pd {
+        position: absolute;
+        width: 349px;
+        height: 257px;
+        left: 1367px;
+        top: 1269px;
+    }
+
+    .catblock2 {
+        position: absolute;
+        width: 1920px;
+        height: 234px;
+        left: 0px;
+        top: 1776px;
+    }
+
+    .textblock2 {
+        position: absolute;
+        width: 600px;
+        height: 124px;
+        left: 180px;
+        top: 1800px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 32px;
+        line-height: 40px;
+        letter-spacing: -0.04em;
+        color: #FFFFFF;
+    }
+
+    .shinobu {
+        position: absolute;
+        width: 107px;
+        height: 102px;
+        left: 1483px;
+        top: 1835px;
+    }
+
+    .sstext {
+        position: absolute;
+        width: 143px;
+        height: 113px;
+        left: 1595px;
+        top: 1785px;
+        font-family: 'Zen Dots';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 109.52%;
+        letter-spacing: -0.04em;
+        color: #FFFFFF;
+    }
+
+
+
+    .catblock3 {
+        position: absolute;
+        width: 1920px;
+        height: 49px;
+        left: 0px;
+        top: 2013px;
+    }
+
+    .vk1 {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        left: 171px;
+        top: 2025px;
+    }
+
+    .int1 {
+        position: absolute;
+        width: 24px;
+        height: 24px;
+        left: 140px;
+        top: 2023px;
+    }
+
